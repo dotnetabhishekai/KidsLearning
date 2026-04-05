@@ -62,15 +62,7 @@ Visual picture cards for learning concepts without quizzes — just explore and 
 ### Installation
 
 ```bash
-# Clone or download the project, then:
-python -m venv venv
-
-# Activate the virtual environment
-# Windows:
-venv\Scripts\activate
-# macOS/Linux:
-source venv/bin/activate
-
+# Clone the project, then Create and Activate virtual environment
 # Install dependencies
 pip install -r requirements.txt
 ```
